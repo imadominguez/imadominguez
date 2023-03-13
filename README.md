@@ -1,13 +1,7 @@
 <h1 align="center">Hola 👋, soy Imanol</h1>
 <h3 align="center">Desarrollador Full Stack de Argentina.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imadominguez&label=Profile%20views&color=006499&style=flat" alt="imadominguez" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadominguez" alt="imadominguez" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en [Pet Friendly Universe](https://github.com/PetFriendlyUniverse/Henry-Pf)
-
-- 🌱 Actualmente estoy aprendiendo **React Native, Typescript**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/](https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/)
 
@@ -28,7 +22,8 @@ const imanol = {
     enProgreso: ["React Native", "Typescript"]
   },
   contacto:{
-    email: "imanol.desarrolloweb@gmail.com"
+    email: "imanol.desarrolloweb@gmail.com",
+    linkedin: "https://www.linkedin.com/in/imanoldominguez/"
   }
 }
 ```
