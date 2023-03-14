@@ -28,7 +28,7 @@ const imanol = {
 }
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadominguez&show_icons=true&title_color=006499&text_color=007ebd&locale=en&layout=compact" alt="imadominguez" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadominguez&show_icons=true&theme=dark&title_color=006499&text_color=007ebd&bg_color=2e2e2e&locale=en" alt="imadominguez" /></p>
 
