@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, soy Imanol</h1>
 <h3 align="center">Desarrollador Full Stack de Argentina.</h3>
+<p align="left">Soy programador Full Stack y tutor e-learning con un año de experiencia en la industria de la educación.
+Me apasiona crear soluciones atractivas e innovadoras en el desarrollo de aplicaciones web, utilizando mis habilidades en HTML, CSS, JavaScript y React. ¡Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas habilidades y conocimientos para poder brindar mis conocimientos actualizados!💪
 
+Mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, Node JS, Express, Sequelize, PostgreSQL.💻</p>
 - 🔭 Actualmente estoy trabajando en [Pet Friendly Universe](https://github.com/PetFriendlyUniverse/Henry-Pf) en colaboración con:
   - [Stefano Gemelli](https://github.com/stefanogemelli)
   - [Federico Almeida](https://github.com/FedericoA15)
