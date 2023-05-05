@@ -4,14 +4,7 @@
 Me apasiona crear soluciones atractivas e innovadoras en el desarrollo de aplicaciones web, utilizando mis habilidades en HTML, CSS, JavaScript y React. ¡Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas habilidades y conocimientos para poder brindar mis conocimientos actualizados!💪
 
 Mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, Node JS, Express, Sequelize, PostgreSQL.💻</p>
-- 🔭 Actualmente estoy trabajando en [Pet Friendly Universe](https://github.com/PetFriendlyUniverse/Henry-Pf) en colaboración con:
-  - [Stefano Gemelli](https://github.com/stefanogemelli)
-  - [Federico Almeida](https://github.com/FedericoA15)
-  - [Pablo Amico](https://github.com/pablosecuen)
-  - [Maximiliano Permingeat](https://github.com/mpermingeat)
-  - [Agustin Chavero](https://github.com/AgustinChavero)
-  - [Benjamin Castro](https://github.com/Yuarinaim)
-  - [Florencia Marcos](https://github.com/FlorenciaMarcos)
+
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/](https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/)
 
