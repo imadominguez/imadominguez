@@ -6,7 +6,7 @@ Me apasiona crear soluciones atractivas e innovadoras en el desarrollo de aplica
 Mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, Node JS, Express, Sequelize, PostgreSQL.💻</p>
 
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/](https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/)
+//- 👨‍💻 Todos mis proyectos están disponibles en [https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/](https://imadominguez.github.io/Portfolio-Imanol-Dominguez-Sanchez/)
 
 - 📫 Contactame mediante email **imanol.desarrolloweb@gmail.com**
 
