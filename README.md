@@ -18,7 +18,7 @@ const imanol = {
     lenguajes: ["Javascript"],
     database: ["PostgreSQL"],
     backEnd: ["NodeJs", "Express", "Sequelize"],
-    frontEnd: ["HTML 5", "CSS 3", "React", "Redux", "Zustand", "NextJs", "Tailwind CSS", "Prisma", "Typescript"],
+    frontEnd: ["HTML 5", "CSS 3", "React", "NextJs", "Redux", "Zustand", "Tailwind CSS", "Prisma", "Typescript"],
     enProgreso: ["React Native"]
   },
   contacto:{
