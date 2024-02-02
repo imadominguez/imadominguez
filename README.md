@@ -18,8 +18,8 @@ const imanol = {
     lenguajes: ["Javascript"],
     database: ["PostgreSQL"],
     backEnd: ["NodeJs", "Express", "Sequelize"],
-    frontEnd: ["React", "Redux", "Tailwind CSS", "Bootstrap", "SASS", "CSS Modules", "HTML 5", "CSS 3"],
-    enProgreso: ["React Native", "Typescript"]
+    frontEnd: ["HTML 5", "CSS 3", "React", "Redux", "Zustand", "NextJs", "Tailwind CSS", "Prisma", "Typescript"],
+    enProgreso: ["React Native"]
   },
   contacto:{
     email: "imanol.desarrolloweb@gmail.com",
