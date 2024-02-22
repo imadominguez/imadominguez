@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Imanol</h1>
-<h3 align="center">Desarrollador Frontend de Argentina.</h3>
+<h3 align="center">🇦🇷 Argentina.</h3>
 <p align="left">Desarrollador Frontend con un año de trayectoria en la creación de aplicaciones y sitios web. Destaco por mi actitud proactiva, comprometida y minuciosa, con capacidad para integrarme en equipos de trabajo. Me adapto con facilidad a nuevas tecnologías y entornos, y valoro la colaboración grupal como un elemento fundamental en mi desarrollo profesional.
 
 Especializado en metodologías agiles, con experiencia manejando tecnologías como React, Next, Prisma, Redux, Zustand, NodeJS, TypeScript, Tailwind CSS, Express y NestJS, más el manejo de Bases de Datos SQL y NoSQL a través de MongoDB, PostgreSQL, y habilidades básicas en React Native.
