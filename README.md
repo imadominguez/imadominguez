@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, soy Imanol</h1>
 <h3 align="center">Desarrollador Full Stack de Argentina.</h3>
-<p align="left">Soy programador Full Stack y tutor e-learning con un año de experiencia en la industria de la educación.
-Me apasiona crear soluciones atractivas e innovadoras en el desarrollo de aplicaciones web, utilizando mis habilidades en HTML, CSS, JavaScript y React. ¡Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas habilidades y conocimientos para poder brindar mis conocimientos actualizados!💪
+<p align="left">Desarrollador Frontend con un año de trayectoria en la creación de aplicaciones y sitios web. Destaco por mi actitud proactiva, comprometida y minuciosa, con capacidad para integrarme en equipos de trabajo. Me adapto con facilidad a nuevas tecnologías y entornos, y valoro la colaboración grupal como un elemento fundamental en mi desarrollo profesional.
 
-Mis techSkills son: React, Redux, Tailwind CSS, Bootstrap, Node JS, Express, Sequelize, PostgreSQL.💻</p>
+Especializado en metodologías agiles, con experiencia manejando tecnologías como React, Next, Prisma, Redux, Zustand, NodeJS, TypeScript, Tailwind CSS, Express y NestJS, más el manejo de Bases de Datos SQL y NoSQL a través de MongoDB, PostgreSQL, y habilidades básicas en React Native.
+
+Si te interesa un programador con ganas de progresar y afrontar nuevos desafíos ¡Contacta conmigo!
+</p>
 
 - 📫 Contactame mediante email **imanol.desarrolloweb@gmail.com**
 
