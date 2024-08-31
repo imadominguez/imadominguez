@@ -1,37 +1,37 @@
-<h1 align="center">Hola 👋, soy Imanol</h1>
-<p align="left">Desarrollador Frontend de Argentina. con un año de trayectoria en la creación de aplicaciones y sitios web. Destaco por mi actitud proactiva, comprometida y minuciosa, con capacidad para integrarme en equipos de trabajo. Me adapto con facilidad a nuevas tecnologías y entornos, y valoro la colaboración grupal como un elemento fundamental en mi desarrollo profesional.
+<h1 align="center">¡Hola! Soy Imanol 👋</h1>
 
-Especializado en metodologías agiles, con experiencia manejando tecnologías como React, Next, Prisma, Redux, Zustand, NodeJS, TypeScript, Tailwind CSS, Express y NestJS, más el manejo de Bases de Datos SQL y NoSQL a través de MongoDB, PostgreSQL, y habilidades básicas en React Native.
-
-Si te interesa un programador con ganas de progresar y afrontar nuevos desafíos ¡Contacta conmigo!
+<p align="left">
+  Soy un desarrollador frontend de Argentina con dos años de experiencia en la creación de aplicaciones y sitios web. Me destaco por mi actitud proactiva, mi compromiso y mi atención al detalle. Me adapto rápidamente a nuevas tecnologías y entornos, y valoro profundamente la colaboración en equipo como parte esencial de mi desarrollo profesional.
 </p>
 
-- 📫 Contactame mediante email **imanol.desarrolloweb@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imanoldominguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanoldominguez" height="30" width="40" /></a>
+  Mi especialización incluye el uso de metodologías ágiles y tecnologías como React, Next.js, Prisma, Redux, Zustand, Node.js, TypeScript, Tailwind CSS, Express y NestJS. También tengo experiencia con bases de datos SQL y NoSQL, incluyendo MongoDB y PostgreSQL. Actualmente, estoy ampliando mis habilidades en React Native.
+</p>
+
+<p align="left">
+  Si estás buscando un programador motivado y listo para afrontar nuevos desafíos, ¡no dudes en contactarme!
+</p>
+
+- 📫 **Correo electrónico:** [imanol.desarrolloweb@gmail.com](mailto:imanol.desarrolloweb@gmail.com)
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/imanoldominguez" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanoldominguez" height="30" width="40" />
+  </a>
 </p>
 
 ```js
 const imanol = {
   code: {
-    lenguajes: ["Javascript"],
-    database: ["PostgreSQL"],
-    backEnd: ["NodeJs", "Express", "Sequelize"],
-    frontEnd: ["HTML 5", "CSS 3", "React", "NextJs", "Redux", "Zustand", "Tailwind CSS", "Prisma", "Typescript"],
-    enProgreso: ["React Native"]
+    languages: ["JavaScript", "TypeScript"],
+    database: ["PostgreSQL", "MongoDB"],
+    backEnd: ["Node.js", "Express", "NestJS", "Sequelize"],
+    frontEnd: ["HTML5", "CSS3", "React", "Next.js", "Redux", "Zustand", "Tailwind CSS", "Prisma"],
+    inProgress: ["React Native"]
   },
-  contacto:{
+  contact: {
     email: "imanol.desarrolloweb@gmail.com",
     linkedin: "https://www.linkedin.com/in/imanoldominguez/"
   }
 }
-```
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadominguez&show_icons=true&theme=dark&title_color=006499&text_color=007ebd&bg_color=2e2e2e&locale=en" alt="imadominguez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadominguez&theme=dark" alt="imadominguez" /></p>
-
